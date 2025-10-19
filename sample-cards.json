@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "term": "Hello",
+    "translation": "Привет",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["greetings", "basics"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "term": "Thank you",
+    "translation": "Спасибо",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["politeness", "basics"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "term": "Good morning",
+    "translation": "Доброе утро",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["greetings", "time"],
+    "difficulty": "A2",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "term": "Good evening",
+    "translation": "Добрый вечер",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["greetings", "time"],
+    "difficulty": "A2",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "term": "How are you?",
+    "translation": "Как дела?",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["greetings", "conversation"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "term": "Please",
+    "translation": "Пожалуйста",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["politeness", "basics"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "term": "Excuse me",
+    "translation": "Извините",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["politeness", "basics"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "term": "I don't understand",
+    "translation": "Я не понимаю",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["conversation", "learning"],
+    "difficulty": "A2",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "term": "Can you help me?",
+    "translation": "Можете мне помочь?",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["conversation", "requests"],
+    "difficulty": "A2",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "term": "Goodbye",
+    "translation": "До свидания",
+    "lang_primary": "en",
+    "lang_secondary": "ru",
+    "category": ["greetings", "basics"],
+    "difficulty": "A1",
+    "status": "neutral",
+    "created_at": "2025-10-19T00:00:00.000Z"
+  }
+]
+
